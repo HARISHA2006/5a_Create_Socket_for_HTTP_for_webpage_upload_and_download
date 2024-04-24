@@ -58,6 +58,7 @@ if __name__ == "__main__":
 ```
 
 ## OUTPUT
+![image](https://github.com/mades2112/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/152461996/e7956e6d-b657-4ed9-8a9f-1aae2226b962)
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
